@@ -29,16 +29,16 @@ echo $cmd
 $cmd
 
 #Updated Jan 14th 2020
-cmd="wget --no-check-certificate https://obj.umiacs.umd.edu/metacompassdb/refseq-2020-01-14.tar.gz"
-echo $cmd
-$cmd
+#cmd="wget --no-check-certificate https://obj.umiacs.umd.edu/metacompassdb/refseq-2020-01-14.tar.gz"
+#echo $cmd
+#$cmd
 
-cmd="tar -xzvf refseq-2020-01-14.tar.gz"
-echo $cmd
-$cmd
+#cmd="tar -xzvf refseq-2020-01-14.tar.gz"
+#echo $cmd
+#$cmd
 
 #optional
-cmd="rm refseq-2020-01-14.tar.gz"
-echo $cmd
-$cmd
+#cmd="rm refseq-2020-01-14.tar.gz"
+#echo $cmd
+#$cmd
 
